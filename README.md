@@ -1,1 +1,1 @@
-# bank-chun-system-ai-mini-project
+# bank-churn-system-ai-mini-project
